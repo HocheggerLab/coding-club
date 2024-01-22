@@ -1,0 +1,9 @@
+
+# gitignore template for project with data
+# large data
+# sensitive data
+*.csv
+*.ometif
+*.tif
+*.tiff
+secrets
