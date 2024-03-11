@@ -1,7 +1,7 @@
 ### 1. Git commands
 
 This week's git session is on branching.
-This one of the most powerful features of git that is used for collaborations to avoid conflicts when several people work on teh same document.
+This one of the most powerful features of git that is used for collaborations to avoid conflicts when several people work on the same document.
 The idea is that there is one main branch that contains the latest fully functional code. When you clone code, like for example the if_analysis package and you want to experiment with it and add features its generally a good idea to generate your own local branch that you work with. Once you have established a new function or chaged a function to improve its features you can merge these changes back to main, once you are sure they work.
 Today you wil generate a branch of the if_analysis package that you will use for your own work.
 cd into the if_analysis folder
@@ -35,9 +35,10 @@ Once you have something useful you can share it back to the mian branch that eve
 
 To do this we will use git merge, but this is for next time.
 
-
 ### 2. First steps with object oriented programming:
 
 Understanding classes is useful even if you dont need them for the type of coding you do.
 
 Switch to the jupyter notebook to follow along the next steps
+
+### 3. if_analysis code
