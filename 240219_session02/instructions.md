@@ -86,8 +86,7 @@ in the destination directory : git clone https://github.com/HocheggerLab/Omero-S
 9. pip install python-dotenv
 10. pip install -e 'path to omero-screen-napari package'
 
-To get napari started type napari in the terminal. The load the read-well plugin. 
-
+To get napari started type napari in the terminal. The load the read-well plugin.
 
 # 3. Matplotlib practice
 
